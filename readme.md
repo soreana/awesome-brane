@@ -21,6 +21,7 @@ Brane is a framework that simplifies the orchestration of applications across mu
 - **User Guide**: Comprehensive documentation for Brane users. [Brane: The User Guide](https://wiki.enablingpersonalizedinterventions.nl/user-guide/)
 - **GitHub Repository**: Source code and development resources. [Brane on GitHub](https://github.com/epi-project/brane)
 - **Overview**: Introduction to Brane's features and architecture. [Overview - Brane: The User Guide](https://wiki.enablingpersonalizedinterventions.nl/user-guide/overview.html)
+- **Basic Concepts**: Introduction to BraneScript basics, including variables, if-statements, loops, parallel statements, and built-in functions. [Basic concepts](https://wiki.enablingpersonalizedinterventions.nl/user-guide/branescript/basics.html?highlight=conditions#if-statements)
 
 ## Tutorials
 
@@ -52,7 +53,7 @@ Explore these projects to see Brane in action:
 ## Tools and Extensions
 
 - **Brane-IDE**: Integrated development environment tailored for Brane workflows. [Brane-IDE GitHub repository](https://github.com/epi-project/brane-ide)
-- **Package Builders**: Tools for creating and managing Brane packages. [Your First Package](https://wiki.enablingpersonalizedinterventions.nl/user-guide/software-engineers/14-your-first-package.html)
+- **Package Builders**: Tools for creating and managing Brane packages. [Your First Package](https://wiki.enablingpersonalizedinterventions.nl/user-guide/software-engineers/hello-world.html)
 
 
 
